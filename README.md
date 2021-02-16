@@ -23,7 +23,7 @@ How to run ?
         7.It will show the output in the cmd 
         
         
-How to run unittests ?
+How to run UnitTests ?
 
       ## Using Visual studio
       
@@ -39,6 +39,7 @@ How to run unittests ?
             2.Enter the below command
             
                     dotnet test
+                    
             3.It will run the testcases and shows the result.
             
             
