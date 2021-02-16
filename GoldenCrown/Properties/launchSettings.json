@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GoldenCrown": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\tejav\\source\\repos\\GoldenCrown.GeekTrust\\TestCases.txt\""
+    }
+  }
+}

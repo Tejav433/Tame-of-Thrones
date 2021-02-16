@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "SPACE",
+    "Emblem": "Gorilla",
+    "KingName": "Shan",
+    "RulerCandidate": true
+  },
+  {
+    "Name": "LAND",
+    "Emblem": "Panda",
+    "KingName": "",
+    "RulerCandidate": false
+  },
+  {
+    "Name": "WATER",
+    "Emblem": "Octopus",
+    "KingName": "",
+    "RulerCandidate":false
+  },
+  {
+    "Name": "ICE",
+    "Emblem": "Mammoth",
+    "KingName": "",
+    "RulerCandidate": false
+  },
+  {
+    "Name": "AIR",
+    "Emblem": "Owl",
+    "KingName": "",
+    "RulerCandidate": false
+  },
+  {
+    "Name": "Fire",
+    "Emblem": "Dragon",
+    "KingName": "",
+    "RulerCandidate": false
+  }
+]
